@@ -2,8 +2,6 @@ import java.util.*;
 
 /* input format for paiza
 n k               ... k-permutations of n 
-
-if you input number : 60 or higher, then Overflow is occurred.
 */
 
 public class Main {
