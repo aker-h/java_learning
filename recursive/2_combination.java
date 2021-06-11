@@ -19,7 +19,7 @@ public class Main {
             System.out.println(result);
         } catch (OverflowException e) {
             System.out.println("OverFlow was occurred.");
-            System.out.println(String.format("Input Number was %d.", num));
+            System.out.println(String.format("Input Numbers were %d and %d.", num, limit));
         }
     }
     
